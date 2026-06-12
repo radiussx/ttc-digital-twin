@@ -4,6 +4,6 @@ __pycache__/
 
 .streamlit/
 
-data/raw/*.parquet
+# data/raw/*.parquet*
 data/processed/*.parquet
 data/curated/*.parquet
