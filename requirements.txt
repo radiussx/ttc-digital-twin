@@ -1,6 +1,6 @@
 streamlit
 pandas
-pyarrow
 requests
 gtfs-realtime-bindings
-protobuf
+pydeck
+streamlit-autorefresh
